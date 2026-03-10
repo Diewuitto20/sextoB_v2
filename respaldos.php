@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>index</title>
+        <title>Respaldos</title>
         <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta
@@ -17,19 +17,21 @@
             crossorigin="anonymous"
         />
     </head>
-    
 
     <body>
         <header>
             <!-- place navbar here -->
         </header>
         <main>
-                    Pagina princial
-                    <br>
-                    <a href="reportes.php">Reporte Mensual</a>
-                    <br>
-                    <a href="dashboard.php">Dashboard</a>
-
+            <a
+                name=""
+                id=""
+                class="btn btn-primary"
+                href="#"
+                role="button"
+                >generar respaldo</a
+            >
+            
         </main>
         <footer>
             <!-- place footer here -->
